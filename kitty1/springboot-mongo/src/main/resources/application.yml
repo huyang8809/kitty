@@ -1,0 +1,7 @@
+
+spring:
+  data:
+    mongodb:
+      database: teacher
+      host: localhost
+      port: 27017

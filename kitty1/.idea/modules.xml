@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kitty-admin/kitty-admin.iml" filepath="$PROJECT_DIR$/kitty-admin/kitty-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-common/kitty-common.iml" filepath="$PROJECT_DIR$/kitty-common/kitty-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-consumer/kitty-consumer.iml" filepath="$PROJECT_DIR$/kitty-consumer/kitty-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-core/kitty-core.iml" filepath="$PROJECT_DIR$/kitty-core/kitty-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-hystrix/kitty-hystrix.iml" filepath="$PROJECT_DIR$/kitty-hystrix/kitty-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-monitor/kitty-monitor.iml" filepath="$PROJECT_DIR$/kitty-monitor/kitty-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-producer/kitty-producer.iml" filepath="$PROJECT_DIR$/kitty-producer/kitty-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-producer2/kitty-producer2.iml" filepath="$PROJECT_DIR$/kitty-producer2/kitty-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty-zuul/kitty-zuul.iml" filepath="$PROJECT_DIR$/kitty-zuul/kitty-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitty1.iml" filepath="$PROJECT_DIR$/kitty1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongo/springboot-mongo.iml" filepath="$PROJECT_DIR$/springboot-mongo/springboot-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-spring-security/springboot-spring-security.iml" filepath="$PROJECT_DIR$/springboot-spring-security/springboot-spring-security.iml" />
+    </modules>
+  </component>
+</project>

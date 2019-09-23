@@ -1,0 +1,25 @@
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      enabled: true
+      discovery:
+        service-name: ${spring.application.name}
+        register: true
+  application:
+    name: kitty-admin
+  boot:
+      admin:
+        client:
+          url: http://localhost:8000
+
+# 开放健康检查接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: ALWAYS
